@@ -10,12 +10,12 @@ The list of data structures in Java listed below
 
 *Arrays*
 *ArrayList*
-*LinkedList*
-Stack
-Queue
-HashMap
-HashSet
-TreeSet
-TreeMap
-Graph
-Tree
+**LinkedList**
+**Stack**
+**Queue**
+**HashMap**
+**HashSet**
+**TreeSet**
+**TreeMap**
+**Graph**
+*Tree*
