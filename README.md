@@ -8,7 +8,7 @@ The way that data is organized and stored in a computer program's memory relies 
 
 The list of data structures in Java listed below
 
-Arrays
+*Arrays*
 ArrayList
 LinkedList
 Stack
