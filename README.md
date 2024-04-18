@@ -8,8 +8,8 @@ The way that data is organized and stored in a computer program's memory relies 
 
 The list of data structures in Java listed below
 
-*Arrays*
-*ArrayList*
+**Arrays**
+**ArrayList**
 **LinkedList**
 **Stack**
 **Queue**
@@ -18,4 +18,4 @@ The list of data structures in Java listed below
 **TreeSet**
 **TreeMap**
 **Graph**
-*Tree*
+**Tree**
