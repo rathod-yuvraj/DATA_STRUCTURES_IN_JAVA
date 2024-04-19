@@ -12,12 +12,22 @@ _**Arrays**_
 
 
 **ArrayList**
+
+
 **LinkedList**
+
+
 **Stack**
+
 **Queue**
+
 **HashMap**
+
 **HashSet**
+
 **TreeSet**
+
 **TreeMap**
+
 **Graph**
 **Tree**
