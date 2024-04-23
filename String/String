@@ -1,0 +1,23 @@
+In data structures, a string is a sequence of characters used to represent text. 
+Strings are commonly used for storing and manipulating textual data in computer programs.
+ They can be manipulated using various operations like concatenation, substring extraction,
+  and comparison.
+
+  String Data Type:
+In most programming languages, strings are treated as a distinct data type. This means that strings have their own set of operations and properties. They can be declared and manipulated using specific string-related functions and methods.
+
+String Operations:
+Strings support a wide range of operations, including concatenation, substring extraction, length calculation, and more. These operations allow developers to manipulate and process string data efficiently.
+
+Below are fundamental operations commonly performed on strings in programming.
+
+Concatenation: Combining two strings to create a new string.
+Length: Determining the number of characters in a string.
+Access: Accessing individual characters in a string by index.
+Substring: Extracting a portion of a string.
+Comparison: Comparing two strings to check for equality or order.
+Search: Finding the position of a specific substring within a string.
+Modification: Changing or replacing characters within a string.
+
+What is String?
+Strings are considered a data type in general and are typically represented as arrays of bytes (or words) that store a sequence of characters. Strings are defined as an array of characters. The difference between a character array and a string is the string is terminated with a special character ‘\0’
