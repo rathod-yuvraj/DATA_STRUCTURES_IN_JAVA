@@ -68,5 +68,6 @@ It returns true if the string contains the specified sequence of char values oth
 # Matching String Start and End 
 
 boolean startsWith(String str): Returns true if the string str exists at the starting of the given string, else false.
-boolean startsWith(String str, int indexNum): Returns true if the string str exists at the starting of the index indexNum in the given string, else false.
+boolean startsWith(String str, int indexNum): 
+Returns true if the string str exists at the starting of the index indexNum in the given string, else false.
 boolean endsWith(String str): Returns true if the string str exists at the ending of the given string, else false.
