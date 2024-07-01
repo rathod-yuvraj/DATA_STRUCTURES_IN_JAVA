@@ -74,6 +74,19 @@ boolean endsWith(String str): Returns true if the string str exists at the endin
 
 
 # Array Operations in Java
+*Common Array Operations*
+*Check if a Java Array Contains a Value*
+How to Copy an Array in Java
+Removing the First Element of an Array
+Finding the Min and Max in an Array with Java
+Find Sum and Average in a Java Array
+How to Invert an Array in Java
+Join and Split Arrays and Collections in Java
+Combining Different Types of Collections in Java
+Find All Pairs of Numbers in an Array That Add Up to a Given Sum
+Sorting in Java
+Efficient Word Frequency Calculator in Java
+Insertion Sort in Java
 2. Arrays and Helper Classes
 Before proceeding, it’s useful to understand what is an array in Java, and how to use it. If it’s your first time working with it in Java, we suggest having a look at this previous post where we covered all basic concepts.
 
