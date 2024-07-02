@@ -82,6 +82,22 @@ Common operations performed on arrays include:
 # Deletion : Removing an element from an array at a specific index.
 # Searching : Finding the index of an element in an array.
 *Common Array Operations*
+ # Easy Problems on Array:
+Find the largest three elements in an array
+Find Second largest element in an array
+Move all zeroes to end of array
+Rearrange array such that even positioned are greater than odd
+Rearrange an array in maximum minimum form using Two Pointer Technique
+Segregate even and odd numbers
+Reversal algorithm for array rotation
+Print left rotation of array in O(n) time and O(1) space
+Sort an array in wave form
+Sort an array which contain 1 to n values
+Count the number of possible triangles
+Print All Distinct Elements of a given integer array
+Find the element that appears once in Array where every other element appears twice
+Leaders in an array
+Find sub-array with given sum
 *Check if a Java Array Contains a Value*
 How to Copy an Array in Java
 Removing the First Element of an Array
