@@ -1,7 +1,7 @@
 # Easy
  - [x] Find the largest and smallest element in an array.
- - [ ] Reverse an array.
- - [ ] Find the second largest element in an array.
+ - [x] Reverse an array.
+ - [x] Find the second largest element in an array.
  - [ ] Check if an array is sorted.
  - [ ] Remove duplicates from a sorted array.
  - [ ] Rotate an array to the left/right by k positions.
