@@ -1,3 +1,4 @@
+package Reverse;
 
 
 class ReverseArr{
@@ -12,10 +13,13 @@ class ReverseArr{
         }
 
         // printing the reversed array
+       
         System.out.println("");
+        System.out.print("[");
         for (int k = 0; k < n; k++) {
-            System.out.println(b[k]);
+            System.out.print(b[k]+"\t");
         }
+        System.out.println("]");
     }
 
     public static void main(String[] args)
